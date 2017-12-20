@@ -1,5 +1,6 @@
 backend:
   name: bitbucket
+  repo: daviddarnes/netlify-alembic-test # Path to your Github repository
 
 media_folder: "uploads" # Folder where user uploaded files should go
 
