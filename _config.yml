@@ -1,1 +1,5 @@
 theme: alembic-jekyll-theme
+
+# Site settings
+url: alembic-theme-test.netlify.com
+baseurl: ''
