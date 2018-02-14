@@ -5,6 +5,7 @@ url: alembic-theme-test.netlify.com
 baseurl: ''
 title: 'Netlify & Alembic Test'
 description: 'Testing out Netlify and the Netlify CMS with Alembic for Jekyll'
+permalink: pretty
 
 # Pagination
 paginate: 5
