@@ -1,5 +1,6 @@
 ---
 title: Welcome
+layout: page
 ---
 
 # Hello world
