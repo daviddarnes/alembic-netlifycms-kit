@@ -1,6 +1,12 @@
 # Set theme
 theme: alembic-jekyll-theme
 
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
 # Set plugins
 plugins:
 - jekyll-sitemap
