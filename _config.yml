@@ -1,10 +1,10 @@
 theme: alembic-jekyll-theme
 
 # Site settings
-url: alembic-theme-test.netlify.com
+url: mydomain.com
 baseurl: ''
-title: 'Netlify & Alembic Test'
-description: 'Testing out Netlify and the Netlify CMS with Alembic for Jekyll'
+title: 'My website'
+description: 'This is my new website'
 permalink: pretty
 
 # Pagination
@@ -13,12 +13,10 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Welcome: /
+  Home: /
   About: /about/
   Blog: /blog/
-  Fork Alembic: https://github.com/daviddarnes/alembic
 
 #
 navigation_footer:
-  Myself: https://darn.es
-  Netlify: https://www.netlify.com/
+  Back to top: "#top"
