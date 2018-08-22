@@ -1,3 +1,4 @@
+# Set theme
 theme: alembic-jekyll-theme
 
 # Site settings
@@ -17,6 +18,6 @@ navigation_header:
   About: /about/
   Blog: /blog/
 
-#
+# Footer nav
 navigation_footer:
   Back to top: "#top"
